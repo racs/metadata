@@ -1,8 +1,8 @@
 {
-    "name": "The Magic Land",
-    "description": "Test Contract level the Magic Land",
-    "image": "https://ymxoyfjuznlq.bigmoralis.com/TMLDragonopenseafetured.png",
-    "external_link": "https://ymxoyfjuznlq.bigmoralis.com",
+    "name": "The dogs Test",
+    "description": "Test Contract level the Dogs",
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/unnamed.png",
+    "external_link": "https://beowulf.nicepage.io/Beowulf-Works.html",
     "seller_fee_basis_points": 1000,
-    "fee_recipient": "0x473c4b76f170e650f2c203f09efe6ad77ae57476"
+    "fee_recipient": "0x80ff31058D8EA6B2a04C40008279914107EF3684"
   }
