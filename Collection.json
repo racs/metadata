@@ -1,8 +1,8 @@
 {
-    "name": "The dogs Test",
-    "description": "Test Contract level the Dogs",
-    "image": "https://raw.githubusercontent.com/racs/metadata/master/unnamed.png",
-    "external_link": "https://beowulf.nicepage.io/Beowulf-Works.html",
+    "name": "Nome da coleção teste",
+    "description": "Teste Contract level",
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/collectionimage.png",
+    "external_link": "http://www.themagicland.com.br",
     "seller_fee_basis_points": 1000,
     "fee_recipient": "0x80ff31058D8EA6B2a04C40008279914107EF3684"
   }
