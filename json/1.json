@@ -1,11 +1,5 @@
 {
     "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/Cat.png",
     "description": "Cats are the result of centuries of experiments involving magic and alchemy.",
-    "name": "Cat",
-    "attributes": [
-        {
-          "trait_type": "Base", 
-          "value": "Cat"
-        }             
-      ]       
+    "name": "Cat"
 }
