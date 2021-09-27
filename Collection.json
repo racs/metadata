@@ -1,8 +1,8 @@
 {
-    "name": "Collection TML Test",
-    "description": "Contract level test description",
+    "name": "The Magic Land",
+    "description": "The Magic Land is an online role-playing game, where people create their characters and live in a fantasy world.",
     "image": "https://raw.githubusercontent.com/racs/metadata/master/collectionimage.png",
     "external_link": "http://www.themagicland.com.br",
     "seller_fee_basis_points": 1000,
-    "fee_recipient": "0xdbbbbefc023afcba6bab46cd9cb42826265c6776"
+    "fee_recipient": "0x8451B0b82762245d4819ae34F40DF37baF6689D4"
   }
