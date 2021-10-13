@@ -1,0 +1,12 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/19.jpg",
+    "description": "Your outfit is the part of your character that is displayed to all other players while you are in game.",
+    "name": "Brave Knight",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Outfit"         
+          
+        }
+    ]
+}
