@@ -4,8 +4,8 @@
     "name": "Bug",
     "attributes": [
         {
-          "trait_type": "Outfit",
-            "value": ""         
+          "trait_type": "Base",
+            "value": "Outfit"         
           
         }
     ]
