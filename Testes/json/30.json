@@ -1,0 +1,27 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/30.jpg",
+    "description": "Weapons are equippable items in the game",
+    "name": "Celestial Sword",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Weapon"         
+          
+        },
+        {
+            "trait_type": "Sub Type",
+              "value": "Sword"         
+            
+          },
+        {
+            "display_type": "number", 
+            "trait_type": "Attack", 
+            "value": 20
+        },
+        {
+            "display_type": "number", 
+            "trait_type": "Defense", 
+            "value": 15
+        } 
+    ]
+}
