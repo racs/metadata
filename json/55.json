@@ -1,0 +1,32 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/55.jpg",
+    "description": "Weapons are equippable items and change the stats of players.",
+    "name": "War Bow",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Weapon"         
+          
+        },
+        {
+            "trait_type": "Sub Type",
+              "value": "Bow"         
+            
+          },
+          {
+            "trait_type": "Effects",
+              "value": "Unknown"         
+            
+          },
+		  {
+            "trait_type": "Rarity",
+              "value": "Rare"         
+            
+          },        
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Physical Attack", 
+            "value": 26
+        }
+    ]
+}
