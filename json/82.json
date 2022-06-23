@@ -1,0 +1,32 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/82.jpg",
+    "description": "Weapons are equippable items and change the stats of players.",
+    "name": "Black Barrier",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Weapon"         
+          
+        },
+        {
+            "trait_type": "Sub Type",
+              "value": "Shield"         
+            
+          },
+          {
+            "trait_type": "Effects",
+              "value": "Unknown"         
+            
+          },
+		  {
+            "trait_type": "Rarity",
+              "value": "Rare"         
+            
+          },        
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Defense", 
+            "value": 74
+        }
+    ]
+}
