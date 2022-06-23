@@ -1,0 +1,32 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/97.jpg",
+    "description": "Weapons are equippable items and change the stats of players.",
+    "name": "Dark Mist",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Weapon"         
+          
+        },
+        {
+            "trait_type": "Sub Type",
+              "value": "Staff"         
+            
+          },
+          {
+            "trait_type": "Effects",
+              "value": "Unknown"         
+            
+          },
+		  {
+            "trait_type": "Rarity",
+              "value": "Epic"         
+            
+          },        
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Magic Attack", 
+            "value": 74
+        }
+    ]
+}
