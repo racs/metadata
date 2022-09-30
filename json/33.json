@@ -22,7 +22,12 @@
             "trait_type": "Rarity",
               "value": "Uncommon"         
             
-          },        
+          }, 
+          {
+            "trait_type": "Level",
+              "value": "10"         
+            
+          },       
         {
             "display_type": "boost_number", 
             "trait_type": "Magic Attack", 

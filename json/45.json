@@ -23,6 +23,11 @@
               "value": "Rare"         
             
           },
+          {
+            "trait_type": "Level",
+              "value": "20"         
+            
+          }, 
         {
             "display_type": "boost_number", 
             "trait_type": "Physical Attack", 

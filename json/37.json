@@ -22,7 +22,12 @@
             "trait_type": "Rarity",
               "value": "Epic"         
             
-          },        
+          },
+          {
+            "trait_type": "Level",
+              "value": "30"         
+            
+          },          
         {
             "display_type": "boost_number", 
             "trait_type": "Defense", 
