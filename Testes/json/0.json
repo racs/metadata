@@ -1,12 +1,5 @@
 {
     "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/Bug.jpg",
     "description": "Bugs (insects) live in forests and feed on debris.",    
-    "name": "Bug",
-    "attributes": [
-        {
-          "trait_type": "Type",
-            "value": "Founder's Card"         
-          
-        }
-    ]
+    "name": "Bug"
 }
