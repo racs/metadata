@@ -1,7 +1,7 @@
 {
-    "name": "The Magic Land",
-    "description": "The Magic Land is an online role-playing game, where people create their characters and live in a fantasy world.",
-    "image": "https://raw.githubusercontent.com/racs/metadata/master/collectionimage.png",
+    "name": "Racs Studio",
+    "description": "Racs Studio Collection",
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/racsstudiocollectionimage.png",
     "external_link": "http://www.themagicland.com.br",
     "seller_fee_basis_points": 1000,
     "fee_recipient": "0x8451B0b82762245d4819ae34F40DF37baF6689D4"
