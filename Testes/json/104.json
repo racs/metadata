@@ -1,0 +1,18 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/104.jpg",
+    "description": "The consumable potion contains a rare and valuable magical essence that is absorbed by the player's weapon. This essence enhances various player abilities and strengthens the weapon's effectiveness. As the essence is consumed, the weapon gradually weakens, prompting players to replenish their weapon's power by using the potion.",
+    "name": "Magical Essence",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Potion"         
+          
+        },
+        {
+            "trait_type": "Sub Type",
+              "value": "Consumable"         
+            
+          }
+          
+    ]
+}
