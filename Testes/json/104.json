@@ -12,7 +12,19 @@
             "trait_type": "Sub Type",
               "value": "Consumable"         
             
-          }
+        }
+		{
+            "display_type": "boost_number", 
+            "trait_type": "Attack", 
+            "value": 100
+			"percent_value": true
+        }
+		{
+            "display_type": "boost_number", 
+            "trait_type": "Speed", 
+            "value": 100
+			"percent_value": true
+        }
           
     ]
 }
