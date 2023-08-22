@@ -1,0 +1,13 @@
+{
+    "image": "https://raw.githubusercontent.com/racs/metadata/master/imagens/105.jpg",
+    "description": "A true supporter of the project.",
+    "name": "Supporter",    
+    "attributes": [
+        {
+          "trait_type": "Type",
+            "value": "Supporter"         
+          
+        }
+          
+    ]
+}
